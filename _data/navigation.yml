@@ -8,4 +8,4 @@ main:
   - title: "About"
     url: /about/
   - title: "Resume"
-    url: /_layouts/resume.html
+    url: /resume.html
